@@ -8,7 +8,9 @@ const About = () => {
     return (
         <div className="container">
             <div className="py-4">
-                <h1 className="py-4" >Designed & Developed By Rishi Kumar </h1>
+                <h1 className="py-4" >Designed By Suarabh Gupta </h1>
+                <h1 className="py-4" > Developed By Rishi Kumar </h1>
+                <h1 className="py-4" >Project Integration and Deployment by Vipul Sharma </h1>
                 <div style={{ display: "flex" }}>
                     
                         <Button style={{ color: "black" }} onClick={() => window.open("https://github.com/lucifer-here01", '_blank')}>
