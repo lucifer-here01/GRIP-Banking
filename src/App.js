@@ -11,6 +11,8 @@ import Transfer from './Container/Transfer';
 import PageNotFound from './Container/PageNotFound';
 import Transactions from "./Container/History";
 
+
+// root function for starting the app
 function App() {
     return (
         <Router>
